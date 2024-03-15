@@ -1,0 +1,70 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Aplikasiperpus",
+      "request": "launch",
+      "mainClass": "Aplikasiperpus",
+      "projectName": "bejar java_451d3583"
+    },
+    {
+      "type": "java",
+      "name": "aplikasiperpus",
+      "request": "launch",
+      "mainClass": "aplikasiperpus",
+      "projectName": "bejar java_451d3583"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "bejar java_451d3583"
+    },
+    {
+      "type": "java",
+      "name": "ExamSession3",
+      "request": "launch",
+      "mainClass": "ExamSession3",
+      "projectName": "bejar java_451d3583"
+    },
+    {
+      "type": "java",
+      "name": "ForLoop",
+      "request": "launch",
+      "mainClass": "ForLoop",
+      "projectName": "bejar java_451d3583"
+    },
+    {
+      "type": "java",
+      "name": "IfStatement",
+      "request": "launch",
+      "mainClass": "IfStatement",
+      "projectName": "bejar java_451d3583"
+    },
+    {
+      "type": "java",
+      "name": "NestedIfElse",
+      "request": "launch",
+      "mainClass": "NestedIfElse",
+      "projectName": "bejar java_451d3583"
+    },
+    {
+      "type": "java",
+      "name": "SwitchCaseStatement",
+      "request": "launch",
+      "mainClass": "SwitchCaseStatement",
+      "projectName": "bejar java_451d3583"
+    }
+  ]
+}
