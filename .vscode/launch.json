@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "JavaArray",
+      "request": "launch",
+      "mainClass": "JavaArray",
+      "projectName": "bejar java_451d3583"
+    },
+    {
+      "type": "java",
+      "name": "Perpus",
+      "request": "launch",
+      "mainClass": "Perpus",
+      "projectName": "bejar java_451d3583"
+    },
+    {
+      "type": "java",
       "name": "Aplikasiperpus",
       "request": "launch",
       "mainClass": "Aplikasiperpus",
