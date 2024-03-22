@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TugasCatur",
+      "request": "launch",
+      "mainClass": "TugasCatur",
+      "projectName": "bejar java_451d3583"
+    },
+    {
+      "type": "java",
       "name": "JavaArray",
       "request": "launch",
       "mainClass": "JavaArray",
