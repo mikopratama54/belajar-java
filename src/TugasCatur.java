@@ -1,5 +1,10 @@
 public class TugasCatur {
-  
+//   tugas 2D Array ; papan catur
+//   buatlah sebuah program yang menggunakan array 2D untuk mereprentasikan papan catur
+//   inisialisasikan array dengan nilai-nilai yang merepresentasikan bidak catur
+//   dimana setiap budak di berikan sebuah kode unik 
+//  (misal R untuk raja, Q untuk ratu, B untuk benteng, G untuk gajah, N untuk kuda, dan P untuk Pion)
+//   cetak papan catur ke konsol
         public static void main(String[] args) {
             // Inisialisasi papan catur dengan bidak-bidak catur
             String[][] papanCatur = {

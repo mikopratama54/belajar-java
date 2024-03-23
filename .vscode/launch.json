@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Lampu",
+      "request": "launch",
+      "mainClass": "Lampu",
+      "projectName": "bejar java_451d3583"
+    },
+    {
+      "type": "java",
       "name": "TugasCatur",
       "request": "launch",
       "mainClass": "TugasCatur",
